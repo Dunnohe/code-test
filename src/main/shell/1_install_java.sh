@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-install_dir="/usr/local/heliang05_test";
+install_dir="/usr/local/download";
 jdk_1_8_down_url="http://download.oracle.com/otn-pub/java/jdk/8u171-b11/512cd62ec5174c3487ac17c61aaa89e8/jdk-8u171-linux-x64.tar.gz"
 jdk_ln_name="/usr/local/jdk8";
 

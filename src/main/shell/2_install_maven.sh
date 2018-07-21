@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-install_dir="/usr/local/heliang05_test";
+install_dir="/usr/local/download";
 maven_download_url="http://mirror.bit.edu.cn/apache/maven/maven-3/3.5.3/binaries/apache-maven-3.5.3-bin.tar.gz"
 maven_ln_name="/usr/local/maven3";
 
